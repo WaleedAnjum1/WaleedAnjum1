@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=750&color=22D3EE&center=true&vCenter=true&width=800&height=55&lines=Senior+Full-Stack+%26+Applied+AI+Engineer;React+%7C+TypeScript+%7C+FastAPI+%7C+PostgreSQL;Building+useful+products%2C+APIs%2C+and+AI-powered+workflows;From+product+interfaces+to+retrieval-augmented+systems)](https://git.io/typing-svg)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-waleedanjum.netlify.app-0F766E?style=for-the-badge&logo=netlify&logoColor=white)](https://waleedanjum.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-WaleedAnjum1-181717?style=for-the-badge&logo=github)](https://github.com/WaleedAnjum1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/waleed-anjum-dev/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waleedanjum936@gmail.com)
@@ -101,6 +102,16 @@ I work across the stack—from responsive React interfaces and typed frontend sy
 | **ReTeam Energy** | Energy-efficiency customer portal with assessment workflows and real-time calculations. | `React` `TypeScript` `FastAPI` `PostgreSQL` | [Open site](https://dev.reteamenergy.com/) |
 | **VoiceClone AI** | An in-progress exploration of multilingual voice workflows, retrieval, and voice/timbre conversion. | `Python` `FastAPI` `Hugging Face` `Whisper` | 🚧 In progress |
 
+### Platforms, Real-Time Systems & Full-Stack Products
+
+| Project | What it delivers | Technologies | Link / Status |
+|:---|:---|:---|:---|
+| **ReTeam BeRemote** | Remote-collaboration and wellness platform: a multi-step Course Builder, conditional-logic wellness surveys, and real-time mood/engagement tracking. | `React` `Redux` `Node.js` `MongoDB` `Firebase` | [Open site](https://reteam.beremote.com/) |
+| **iClear** | RESTful backend for a 1,000+ concurrent-user platform, with real-time chat and dashboards, Redis caching, push notifications, and Swagger-documented APIs. | `Node.js` `Express` `MongoDB` `Redis` `Socket.IO` | [Open site](https://iclear.vteamslabs.com/) |
+| **NextRide** | Ride-hailing backend handling 10,000+ daily ride requests, with real-time driver–passenger matching and push notifications. | `Node.js` `Express` `MongoDB` `Socket.IO` `Redis` | Client platform |
+| **iHunt** | Property listing and reservation front-end with location/availability search, interactive GPS walking directions, and dual-role admin dashboards. | `React` `Redux` `JavaScript` | [Open site](https://ihunt.vteamslabs.com/) |
+| **Mashroom** | Medical EdTech platform with an exam simulation engine, QBank with real-time progress persistence, and student analytics dashboards. | `Next.js` `TypeScript` `TanStack Query` `Chart.js` | Full-stack project |
+
 ### Client Websites & Digital Experiences
 
 | Project | What it delivers | Technologies | Link |
@@ -145,6 +156,7 @@ I'm always happy to connect with people building thoughtful web products, practi
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Visit_my-Portfolio-0F766E?style=for-the-badge&logo=netlify&logoColor=white)](https://waleedanjum.netlify.app/)
 [![GitHub](https://img.shields.io/badge/Explore_my_work-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/WaleedAnjum1)
 [![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/waleed-anjum-dev/)
 [![Email](https://img.shields.io/badge/Start_a_conversation-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waleedanjum936@gmail.com)
