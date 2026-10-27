@@ -36,7 +36,7 @@ Testing & QA: Jest · Cypress · Postman · Swagger / OpenAPI
 | Project | Role / Focus | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **Udharmaster** | Conversational AI Ledger & Billing App | Laravel, Ollama, Whisper, MySQL | [Google Play](https://play.google.com/store/apps/details?id=co.appdev.udharmaster&hl=en&pli=1) |
-| **ReTeam Energy** | Energy Assessment & Real-time Calculation Engine | React, TypeScript, FastAPI, PostgreSQL | [Live Site](https://www.reteamenergy.com/) |
+| **ReTeam Energy** | Energy Assessment & Real-time Calculation Engine | React, TypeScript, FastAPI, PostgreSQL | [Live Site](https://dev.reteamenergy.com/) |
 | **VoiceClone AI** | Multilingual RAG Voice & Timbre Conversion | Python, FastAPI, Hugging Face, Whisper | [Platform] (In-progress) |
 | **Cove Childcare** | Asset-Intensive Digital Childcare Platform | React, TypeScript, Tailwind CSS, Radix UI | [Live Site](https://covechildcare.co.uk/) |
 | **Cove Adult Care** | Specialized Accessible Adult Care Platform | React, TypeScript, Tailwind CSS, WCAG 2.1 | [Live Site](http://coveadultcare.co.uk/) |
