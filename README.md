@@ -39,7 +39,7 @@ Testing & QA: Jest · Cypress · Postman · Swagger / OpenAPI
 | **ReTeam Energy** | Energy Assessment & Real-time Calculation Engine | React, TypeScript, FastAPI, PostgreSQL | [Live Site](https://dev.reteamenergy.com/) |
 | **VoiceClone AI** | Multilingual RAG Voice & Timbre Conversion | Python, FastAPI, Hugging Face, Whisper | [Platform] (In-progress) |
 | **Cove Childcare** | Asset-Intensive Digital Childcare Platform | React, TypeScript, Tailwind CSS, Radix UI | [Live Site](https://covechildcare.co.uk/) |
-| **Cove Adult Care** | Specialized Accessible Adult Care Platform | React, TypeScript, Tailwind CSS, WCAG 2.1 | [Live Site](http://coveadultcare.co.uk/) |
+| **Cove Adult Care** | Specialized Accessible Adult Care Platform | React, TypeScript, Tailwind CSS, WCAG 2.1 | [Live Site](https://coveadultcare.co.uk/) |
 | **ARA Architect** | Editorial Architecture & Interior Design Showcase | React, TypeScript, Vite, Tailwind CSS | [Live Site](https://araarchitect.co.uk/) |
 | **Masroor Law** | Premier Legal Counsel & Booking Platform | React, TypeScript, Tailwind CSS, SEO | [Live Site](https://masroorlaw.com/) |
 | **Awaken with Ateka** | Play Therapy & Breathwork Sanctuary Platform | React, TypeScript, Next.js, Eventbrite API | [Live Site](https://awakenwithateka.com/) |
