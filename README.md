@@ -140,8 +140,8 @@ These are active areas of exploration—not a claim that every idea is already a
 ## 📊 GitHub Snapshot
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WaleedAnjum1&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Waleed's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaleedAnjum1&layout=compact&hide_border=true&theme=tokyonight" alt="Most-used languages on GitHub" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=WaleedAnjum1&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Waleed's GitHub statistics" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=WaleedAnjum1&layout=compact&hide_border=true&theme=tokyonight" alt="Most-used languages on GitHub" />
 </div>
 
 <div align="center">
